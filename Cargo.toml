@@ -1,0 +1,21 @@
+[workspace]
+resolver = "2"
+members = ["day_1"]
+
+[workspace.package]
+authors = ["Florian Gebhardt <me@fgardt.dev>"]
+edition = "2021"
+
+[workspace.dependencies]
+criterion = { version = "0.5", features = ["html_reports"] }
+rayon = "1.8"
+regex = "1.10"
+
+[workspace.lints.rust]
+special_module_name = "allow"
+unsafe_code = "forbid"
+
+[workspace.lints.clippy]
+nursery = "warn"
+pedantic = "warn"
+missing_panics_doc = "allow"
