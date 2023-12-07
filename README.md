@@ -93,14 +93,12 @@
 
 ### Part 2
 
-~75 seconds to run
-
-<!-- <details>
+<details>
 <summary>Benchmark</summary>
 
 ![Day 5 Part 2 Benchmark](target/criterion/day_5%20-%20part%202/report/pdf_small.svg)
 
-</details> -->
+</details>
 
 ## Day 6
 
