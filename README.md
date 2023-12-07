@@ -79,3 +79,65 @@
 ![Day 4 Part 2 Benchmark](target/criterion/day_4%20-%20part%202/report/pdf_small.svg)
 
 </details>
+
+## Day 5
+
+### Part 1
+
+<details>
+<summary>Benchmark</summary>
+
+![Day 5 Part 1 Benchmark](target/criterion/day_5%20-%20part%201/report/pdf_small.svg)
+
+</details>
+
+### Part 2
+
+~75 seconds to run
+
+<!-- <details>
+<summary>Benchmark</summary>
+
+![Day 5 Part 2 Benchmark](target/criterion/day_5%20-%20part%202/report/pdf_small.svg)
+
+</details> -->
+
+## Day 6
+
+### Part 1
+
+<details>
+<summary>Benchmark</summary>
+
+![Day 6 Part 1 Benchmark](target/criterion/day_6%20-%20part%201/report/pdf_small.svg)
+
+</details>
+
+### Part 2
+
+<details>
+<summary>Benchmark</summary>
+
+![Day 6 Part 2 Benchmark](target/criterion/day_6%20-%20part%202/report/pdf_small.svg)
+
+</details>
+
+## Day 7
+
+### Part 1
+
+<details>
+<summary>Benchmark</summary>
+
+![Day 7 Part 1 Benchmark](target/criterion/day_7%20-%20part%201/report/pdf_small.svg)
+
+</details>
+
+### Part 2
+
+<details>
+<summary>Benchmark</summary>
+
+![Day 7 Part 2 Benchmark](target/criterion/day_7%20-%20part%202/report/pdf_small.svg)
+
+</details>
