@@ -139,3 +139,43 @@
 ![Day 7 Part 2 Benchmark](target/criterion/day_7%20-%20part%202/report/pdf_small.svg)
 
 </details>
+
+## Day 8
+
+### Part 1
+
+<details>
+<summary>Benchmark</summary>
+
+![Day 8 Part 1 Benchmark](target/criterion/day_8%20-%20part%201/report/pdf_small.svg)
+
+</details>
+
+### Part 2
+
+<details>
+<summary>Benchmark</summary>
+
+![Day 8 Part 2 Benchmark](target/criterion/day_8%20-%20part%202/report/pdf_small.svg)
+
+</details>
+
+## Day 9
+
+### Part 1
+
+<details>
+<summary>Benchmark</summary>
+
+![Day 9 Part 1 Benchmark](target/criterion/day_9%20-%20part%201/report/pdf_small.svg)
+
+</details>
+
+### Part 2
+
+<details>
+<summary>Benchmark</summary>
+
+![Day 9 Part 2 Benchmark](target/criterion/day_9%20-%20part%202/report/pdf_small.svg)
+
+</details>
